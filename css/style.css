@@ -12,9 +12,10 @@
     box-sizing: border-box;
     position: relative;
     overflow: hidden;
-    text-align: justify;
+    
 
 }
+
 .navbar{
     width: 100%;
     height: 15vh;
@@ -49,6 +50,11 @@ nav ul li a{
     margin-top: 24px;
     margin-bottom: 15px;
     color: #232d60;
+}
+.lorem{
+    ont-size: 20px;
+    color: #6a7199;
+    margin-left: 350px;
 }
 
 .content p{
@@ -96,6 +102,12 @@ nav ul li a{
     color: #6a7199;
     padding-right: 20px;
     font-size: 14px;
+}
+.aboutlogo{
+    width: 130px;
+    margin-bottom: 0px;
+    margin-left: 300px;
+    margin-top: -1.5%;
 }
 .image-container{
     transition: left 2s;
@@ -175,10 +187,14 @@ margin-left: 300px;
                 }
                 .content2{
                     margin-left: 25%;
+                    margin-top: -1.8%;
+                }
+                .content3{
+                    margin-left: 25%;
                     margin-right: 17%;
                     margin-top: 2%;
                 }
-                .content2 p{
+                .content3 p{
                     font-size: 16px;
                     color: #6a7199;
                     text-decoration: none;
@@ -186,7 +202,7 @@ margin-left: 300px;
                     text-align: justify;
                     margin-bottom: 15px;
                 }
-                .content2 h2{
+                .content3 h2{
                     color: #232d60;
                     margin-bottom: 15px;
                     margin-top: 3px;
